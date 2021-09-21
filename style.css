@@ -1,0 +1,24 @@
+.titulo{
+color:#0000FF;
+}
+
+
+div#logo{
+	margin: 1 auto;
+	padding: 1;
+	width: 300px;
+	height: 100px;
+	background: transparent url("logo.png")no-repeat left bottom;
+}
+
+body{
+
+}
+
+#menu {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
